@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a **freelance web developer** with a passion f
 
 - 🔭 **Current Focus:** Enhancing my freelancing portfolio and working on exciting web development projects.
 - 💻 **Skills:**  
-  - **Web Development:** HTML, CSS, JavaScript, React, Node.js
-  - **Backend:** Express.js, MongoDB
+  - **Web Development:** HTML, CSS, JavaScript, React, Node.js ,
+  - **Backend:** Express.js, MongoDB , PHP , LARAVEL 
   - **AI Projects:** Python, Natural Language Processing
 - 🌱 **Learning Goals:**  
   - Master full-stack development.
