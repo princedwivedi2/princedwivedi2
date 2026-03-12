@@ -88,11 +88,21 @@ Tip: This uses a few "cards" (via shields) + tight sections to stay readable.
 
 ---
 
-## 📊 GitHub Stats (proof I don’t just “think about coding”)
+## 📊 GitHub Stats (a.k.a. “the training arc”)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=princedwivedi2&show_icons=true&theme=radical" alt="Prince Dwivedi GitHub stats" />
+  <i>Not final form yet — currently in the “consistency > perfection” season.</i>
+</p>
+
+<p align="center">
+  <!-- Hide the grade/rank if it shows (common fix: hide_rank=true) -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=princedwivedi2&show_icons=true&theme=radical&hide_rank=true" alt="Prince Dwivedi GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princedwivedi2&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img alt="Now Loading" src="https://img.shields.io/badge/Status-Leveling%20Up-8b5cf6?style=for-the-badge" />
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-Shipping%20Projects-22c55e?style=for-the-badge" />
 </p>
 
 ---
