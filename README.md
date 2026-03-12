@@ -1,63 +1,90 @@
-# 👋 Hi, I'm Prince Dwivedi!
+<!-- Profile Header -->
+<h1 align="center">Hi, I'm Prince Dwivedi 👋</h1>
+<p align="center">
+  Freelance Web Developer • Full‑Stack Learner • Building modern web apps + exploring AI
+</p>
 
-Welcome to my GitHub profile! I'm a **freelance web developer** with a passion for crafting dynamic and user-friendly websites. I also have experience in building innovative solutions, including an **AI voice assistant app**.  
-
----
-
-## 🌟 About Me
-
-- 🔭 **Current Focus:** Enhancing my freelancing portfolio and working on exciting web development projects.
-- 💻 **Skills:**  
-  - **Web Development:** HTML, CSS, JavaScript, React, Node.js ,
-  - **Backend:** Express.js, MongoDB , PHP , LARAVEL 
-  - **AI Projects:** Python, Natural Language Processing
-- 🌱 **Learning Goals:**  
-  - Master full-stack development.
-  - Develop advanced AI-powered applications.
-- 🎯 **Aspirations:** To grow as a successful freelancer and make a mark in the tech world.
+<p align="center">
+  <a href="mailto:officialpince921@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-informational?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/prince-dwivedi-a42b4b2a1"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=princedwivedi2&style=for-the-badge&color=brightgreen" />
+</p>
 
 ---
 
-## 🛠️ Projects
+## 🚀 About Me
 
-### 1. AI Voice Assistant App
-- **Description:** A smart voice assistant application with:
-  - Real-time voice recognition
-  - Personalized responses
-  - Integration with APIs for enhanced functionality
-- **Tech Stack:** Python, Speech Recognition APIs, NLP
-
-### 2. Dynamic Portfolio Website
-- **Description:** A sleek and responsive website showcasing my projects and skills.
-- **Tech Stack:** HTML, CSS, JavaScript
-
-### 3. E-Commerce Web Application
-- **Description:** A fully functional e-commerce site with:
-  - Product listing
-  - User authentication
-  - Payment gateway integration
-- **Tech Stack:** React, Node.js, MongoDB
+- 🔭 **Current focus:** Growing my freelancing portfolio & shipping real-world web projects  
+- 💡 **I enjoy:** Clean UI, performance, scalable backend, and building helpful products  
+- 🌱 **Learning goals:** Full‑stack mastery + advanced AI-powered applications  
+- 🎯 **Aspirations:** Become a top freelancer and build products that make impact  
 
 ---
 
-## 📈 GitHub Stats
+## 🧰 Tech Stack
 
-![Prince Dwivedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+**Frontend**
+- HTML • CSS • JavaScript • React
+
+**Backend**
+- Node.js • Express.js • MongoDB • PHP • Laravel
+
+**AI / Python**
+- Python • Natural Language Processing (NLP)
 
 ---
 
-## 🔗 Let's Connect
+## 🔥 Featured Projects
 
-- 📧 Email: officialpince921@gmail.com
-- 🌐 LinkedIn: www.linkedin.com/in/prince-dwivedi-a42b4b2a1
+### 🎙️ AI Voice Assistant App
+**What it does**
+- Real‑time voice recognition  
+- Personalized responses  
+- API integrations for smarter functionality  
 
+**Tech:** Python • Speech Recognition APIs • NLP
+
+---
+
+### 🌐 Dynamic Portfolio Website
+**What it does**
+- Sleek, responsive portfolio to showcase work and skills  
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+### 🛒 E‑Commerce Web Application
+**What it does**
+- Product listings  
+- User authentication  
+- Payment gateway integration  
+
+**Tech:** React • Node.js • MongoDB
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=princedwivedi2&show_icons=true&theme=radical" alt="Prince Dwivedi GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princedwivedi2&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+- 📧 Email: **officialpince921@gmail.com**
+- 💼 LinkedIn: **prince-dwivedi-a42b4b2a1**
 
 ---
 
 ## ⭐ Open to Opportunities
 
-I am currently open to freelance projects and collaborations. If you have an exciting idea or need help with web development or AI projects, let’s connect!
+I’m open to **freelance projects** and **collaborations** (web development + AI-based ideas).  
+If you have a project in mind, let’s build something awesome.
 
 ---
 
-*Made with ❤️ by Prince Dwivedi.*
+<p align="center"><i>Made with ❤️ by Prince Dwivedi</i></p>
